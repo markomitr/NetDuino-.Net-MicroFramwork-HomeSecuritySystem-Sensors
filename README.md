@@ -11,3 +11,5 @@ Notable features:
 - Observer pattern
 - Multithreding
 - Sensors
+
+Video: https://youtu.be/QrzjqQQxmI8  
