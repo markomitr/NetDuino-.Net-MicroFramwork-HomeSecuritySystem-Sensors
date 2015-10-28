@@ -12,4 +12,7 @@ Notable features:
 - Multithreding
 - Sensors
 
-Video: https://youtu.be/QrzjqQQxmI8  
+CHECK OUT THE VIDEOS:
+
+Video-1: https://youtu.be/QrzjqQQxmI8
+Video-2: https://youtu.be/ioNAmEqKcC0
